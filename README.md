@@ -1,2 +1,2 @@
-# Matrices_Calculator
-A Matrices Calculator coded by cpp
+# Matrix_Calculator
+A Matrix Calculator coded by cpp
