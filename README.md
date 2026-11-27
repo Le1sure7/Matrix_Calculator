@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 IdentityMatrix(const int Size) Make a identity matrix whose size is Size;
 /name num Name
 /inverse num/Name
@@ -17,3 +18,7 @@ IdentityMatrix(const int Size) Make a identity matrix whose size is Size;
     // type 2: multiply row1 by factor (nonzero).
     // type 3: row1 += factor * row2 (distinct rows).
     RowTransform(const int type,const int row1,const int row2 = 0,const double factor = 1.0)
+=======
+# Matrix_Calculator
+A Matrix Calculator coded by cpp
+>>>>>>> origin/main
